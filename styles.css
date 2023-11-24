@@ -1,0 +1,41 @@
+h1, body{
+    /*Image used in the page*/
+    background-image: url("images/HomePage.png");
+
+    /*Full height for the page*/
+    height: 100%;
+
+    /*Center and scale the image nicely*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color:aquamarine;
+}
+
+.navbar a{
+    float: left;
+    font-size: 17px;
+    color: FF78BA;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+.subnav {
+    float: left;
+    overflow: hidden;
+}
+
+.subnav .subnavbtn{
+    font-size: 17px;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 15px 17px;
+    font-family: inherit;
+    margin: 0;
+}
