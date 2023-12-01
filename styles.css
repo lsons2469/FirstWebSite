@@ -13,13 +13,13 @@ h1, body{
 
 .navbar {
     overflow: hidden;
-    background-color:aquamarine;
+    /* background-color:aquamarine; */
 }
 
 .navbar a{
     float: left;
     font-size: 17px;
-    color: FF78BA;
+    color: #FF78BA;
     text-align: center;
     padding: 15px 17px;
     text-decoration: none;
